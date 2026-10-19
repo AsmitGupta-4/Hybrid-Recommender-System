@@ -1,4 +1,4 @@
-#  Hybrid Movie & Product Recommender System
+# 📌 Hybrid Movie & Product Recommender System
 
 A Python-based hybrid recommendation engine built with Pandas, Cosine Similarity, and Streamlit. This application combines content-based filtering and collaborative filtering techniques to deliver personalized recommendations.
 
@@ -19,13 +19,8 @@ A Python-based hybrid recommendation engine built with Pandas, Cosine Similarity
 * **Web Framework:** Streamlit
 * **Version Control:** Git & Git LFS, GitHub
 
+
 ---
 
-##  Repository Structure
-
-```text
-├── app.py              # Main Streamlit application
-├── movies.csv          # Movie metadata dataset
-├── ratings.csv         # Ratings dataset (tracked via Git LFS)
-├── .gitattributes      # Git LFS configuration file
-└── README.md           # Project documentation
+## 👤 Developer Details
+Developer: Asmit Gupta
